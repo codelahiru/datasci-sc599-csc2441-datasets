@@ -1,0 +1,53 @@
+﻿district_id,district,province    ,country,land_area_sq_km,population    ,population_density_(pers/km²),year
+15,Ampara,Eastern,Sri Lanka,4415,649402,147,2012
+19,Anuradhapura,North Central,Sri Lanka,7179,860575,119.9,2012
+21,Badulla,Uva,Sri Lanka,2861,815405,285,2012
+14,Batticaloa,Eastern,Sri Lanka,2854,526567,184.5,2012
+0,Colombo,Western,Sri Lanka,699,2324349,3325.2,2012
+6,Galle,Southern,Sri Lanka,1652,1063334,643.6,2012
+1,Gampaha,Western,Sri Lanka,1387,2304833,1661.7,2012
+8,Hambantota,Southern,Sri Lanka,2609,599903,229.9,2012
+9,Jaffna,Northern,Sri Lanka,1025,583882,569.6,2012
+2,Kalutara,Western,Sri Lanka,1598,1221948,764.7,2012
+3,Kandy,Central,Sri Lanka,1940,1375382,708.9,2012
+24,Kegalle,Sabaragamuwa,Sri Lanka,1693,840648,496.5,2012
+10,Kilinochchi,Northern,Sri Lanka,1279,113510,88.7,2012
+17,Kurunegala,North Western,Sri Lanka,4816,1618465,336,2012
+11,Mannar,Northern,Sri Lanka,1996,99570,49.9,2012
+4,Matale,Central,Sri Lanka,1993,484531,243.1,2012
+7,Matara,Southern,Sri Lanka,1283,814048,634.5,2012
+22,Moneragala,Uva,Sri Lanka,5639,451058,80,2012
+13,Mullaitivu,Northern,Sri Lanka,2617,92238,35.2,2012
+5,Nuwara Eliya,Central,Sri Lanka,1741,711644,408.7,2012
+20,Polonnaruwa,North Central,Sri Lanka,3293,406088,123.3,2012
+18,Puttalam,North Western,Sri Lanka,3072,762396,248.1,2012
+23,Ratnapura,Sabaragamuwa,Sri Lanka,3275,1088007,332.2,2012
+16,Trincomalee,Eastern,Sri Lanka,2727,379541,139.2,2012
+12,Vavuniya,Northern,Sri Lanka,1967,172115,87.5,2012
+25,Bandarawela,Uva,Sri Lanka,71,65502,928,2012
+15,Ampara,Eastern,Sri Lanka,4415,744150,168.6,2024
+19,Anuradhapura,North Central,Sri Lanka,7179,959552,133.7,2024
+21,Badulla,Uva,Sri Lanka,2861,871763,304.7,2024
+14,Batticaloa,Eastern,Sri Lanka,2854,595435,208.6,2024
+0,Colombo,Western,Sri Lanka,699,2374461,3396.9,2024
+6,Galle,Southern,Sri Lanka,1652,1096585,663.8,2024
+1,Gampaha,Western,Sri Lanka,1387,2433685,1754.6,2024
+8,Hambantota,Southern,Sri Lanka,2609,671037,257.2,2024
+9,Jaffna,Northern,Sri Lanka,1025,594333,579.8,2024
+2,Kalutara,Western,Sri Lanka,1598,1305552,817,2024
+3,Kandy,Central,Sri Lanka,1940,1461269,753.2,2024
+24,Kegalle,Sabaragamuwa,Sri Lanka,1693,869901,513.8,2024
+10,Kilinochchi,Northern,Sri Lanka,1279,136434,106.7,2024
+17,Kurunegala,North Western,Sri Lanka,4816,1760829,365.6,2024
+11,Mannar,Northern,Sri Lanka,1996,123674,62,2024
+4,Matale,Central,Sri Lanka,1993,526578,264.2,2024
+7,Matara,Southern,Sri Lanka,1283,837884,653.1,2024
+22,Moneragala,Uva,Sri Lanka,5639,527286,93.5,2024
+13,Mullaitivu,Northern,Sri Lanka,2617,122542,46.8,2024
+5,Nuwara Eliya,Central,Sri Lanka,1741,724957,416.4,2024
+20,Polonnaruwa,North Central,Sri Lanka,3293,447338,135.8,2024
+18,Puttalam,North Western,Sri Lanka,3072,818065,266.3,2024
+23,Ratnapura,Sabaragamuwa,Sri Lanka,3275,1145138,349.7,2024
+16,Trincomalee,Eastern,Sri Lanka,2727,442465,162.3,2024
+12,Vavuniya,Northern,Sri Lanka,1967,172257,87.6,2024
+25,Bandarawela,Uva,Sri Lanka,71,65488,928,2024
